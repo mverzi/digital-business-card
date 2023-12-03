@@ -13,7 +13,7 @@ export default function Info(){
 
     return (
         <div className="info">
-            <img src={Image} className="info--image"/>
+            <img src={Image} className="info--image" alt="Self portrait"/>
             <div className="info--text">
                 <h1 className="info--textelement">Mary Verzi</h1>
                 <span className="info--textelement info--jobtitle">Full Stack Developer</span>
